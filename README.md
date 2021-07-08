@@ -1,3 +1,3 @@
 # chairAndDesk
 
-![スクリーンショット 2021-07-08 19 26 05](https://user-images.githubusercontent.com/25487270/124907114-bf6c7c80-e022-11eb-96bf-9c86699795d8.png)
+![スクリーンショット 2021-07-08 20 35 41](https://user-images.githubusercontent.com/25487270/124915205-3c502400-e02c-11eb-81df-07f9d9bace4c.png)
